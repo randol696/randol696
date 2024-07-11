@@ -8,6 +8,7 @@
 - **UX/UI**
 - **💾 Small Projects**
 -   - [infinity Radio Stream player app](https://github.com/randol696/infinity-radio-web)
+    - [the wallpost ](https://github.com/randol696/the-wallpost)
 - **Complex Projects**
 - **Python**
 - **Script**
