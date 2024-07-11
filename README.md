@@ -1,35 +1,19 @@
-<h1>Hi, I'm Randol! <br/><a href="https://github.com/randol696">Programmer</a>, <a href="https://www.linkedin.com/in/randol-gonzalez/">Network Professional</a>, </h1>
+# Hi, I'm Randol!  
+[Programmer](https://github.com/randol696), [Network Professional](https://www.linkedin.com/in/randol-gonzalez/)
 
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b>Data Structures and Algorithms Practice (freeCodeCamp)</b><br>
-  - [ 🌱 Front end Projects Html + Css](https://github.com/randol696/ProjectsFreeCodeCamp)<br>
-  - [Javascript Practice](https://github.com/randol696/ProjectsFreeCodeCamp)
-  - <b>UX/UI</b><br>
-  - <b>Small Projects</b><br>
-  - <b>Complex </b><br>
-  - <b>Python</b><br>
-  - <b>Script</b><br>
-  - <b>Android</b><br>
-  - <b>Arduino</b><br>
-<h2>📺 Popular YouTube Videos</h2>
+## 👨‍💻 Software Development Projects:
+- **Data Structures and Algorithms Practice (freeCodeCamp)**
+  - [🌱 Front end Projects: HTML + CSS](https://github.com/randol696/ProjectsFreeCodeCamp)
+  - [JavaScript Practice](https://github.com/randol696/ProjectsFreeCodeCamp)
+- **UX/UI**
+- **💾 Small Projects**
+-   - [infinity Radio Stream player app](https://github.com/randol696/infinity-radio-web)
+- **Complex Projects**
+- **Python**
+- **Script**
+- **Android**
+- **Arduino**
 
+## 📺 Popular YouTube Videos
 
-<h2> 🤳 Connect with me:</h2>
-
-
-
-
-<!--
-**randol696/randol696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤳 Connect with me:
