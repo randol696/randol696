@@ -2,7 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Data Structures and Algorithms Practice (freeCodeCamp)</b><br>
-- [Front end Projects Html + Css ](https://github.com/randol696/ProjectsFreeCodeCamp)
+  - [ 🌱 Front end Projects Html + Css](https://github.com/randol696/ProjectsFreeCodeCamp)
+  - [Javascript Practice](https://github.com/randol696/ProjectsFreeCodeCamp)
+  - <b>UX/UI</b>
+  - <b>Small Projects</b>
+  - <b>Complex </b>
+  - <b>Python</b>
+  - <b>Script</b>
+  - <b>Android</b>
+  - <b>Arduino</b>
 <h2>📺 Popular YouTube Videos</h2>
 
 
