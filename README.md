@@ -1,8 +1,8 @@
 <h1>Hi, I'm Randol! <br/><a href="https://github.com/randol696">Programmer</a>, <a href="https://www.linkedin.com/in/randol-gonzalez/">Network Professional</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
-
+- <b>Data Structures and Algorithms Practice (freeCodeCamp)</b>
+ - [Front end Projects Html + Css ](https://github.com/randol696/ProjectsFreeCodeCamp)
 <h2>📺 Popular YouTube Videos</h2>
 
 
