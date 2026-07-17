@@ -38,13 +38,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=randol696&theme=react-dark" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
